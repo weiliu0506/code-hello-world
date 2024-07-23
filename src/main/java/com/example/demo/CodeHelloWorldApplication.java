@@ -8,7 +8,7 @@ public class CodeHelloWorldApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CodeHelloWorldApplication.class, args);
-		System.out.println();
+		System.out.println("branch-01");
 	}
 
 }
